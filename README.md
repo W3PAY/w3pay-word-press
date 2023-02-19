@@ -9,7 +9,7 @@ Plugin for accepting crypto payments on a website in CMS WordPress.
 - Check out the ready plugins for  CMS. GitHub Website: https://w3pay.github.io/
 
 ## Requirements for the plugin to work
-- OpenCart 6.x
+- WordPress 6.x
 - Site currency: USD
 - https://
 - Plugin WooCommerce
